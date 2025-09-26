@@ -1,6 +1,8 @@
 # WEDE5020POEpart2
+
 Hope for Tomorrow Foundation - Project Part 2
-Project Overview
+
+Project Overview:
 Website development for a Section 18A non-profit organization supporting education in Gauteng's underserved communities.
 
 Student Details:
@@ -27,23 +29,23 @@ Key Features:
 - Consistent navigation across all pages
 
 Files Updated:
-style.css - Main responsive stylesheet
+- style.css - Main responsive stylesheet
 
-index.html - Added logo and enhanced layout
+- index.html - Added logo and enhanced layout
 
-about.html - Team and mission presentation
+- about.html - Team and mission presentation
 
-services.html - Programs showcase
+- services.html - Programs showcase
 
-volunteer.html - Application forms
+- volunteer.html - Application forms
 
-contact.html - Contact information and maps
+- contact.html - Contact information and maps
 
 Technical Implementation:
-CSS Grid and Flexbox layouts
+- CSS Grid and Flexbox layouts
 
-Mobile-responsive breakpoints
+- Mobile-responsive breakpoints
 
-Accessible form design
+- Accessible form design
 
 Compliance with Section 18A and B-BBEE requirements
