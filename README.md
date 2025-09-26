@@ -48,5 +48,3 @@ Technical Implementation:
 - *Student Number:* [ST10480361]
 - *Institution:* [ROSEBANK COLLEG PTA CAMPUS]
 - *Date:* [26/09/2025]
-
-Compliance with Section 18A and B-BBEE requirements
